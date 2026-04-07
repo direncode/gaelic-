@@ -16,12 +16,12 @@
 
 The *Lebor Gabála Érenn* — the medieval Irish pseudo-historical compilation preserved in manuscripts including the *Book of Leinster* (c. 1160) and the *Book of Lecan* (c. 1418) — constructs Irish identity itself as the product of eastern origin and westward migration. The Milesians (*Clann Míled*, "Children of Míl"), who represent the final and definitive wave of settlement, are given an elaborate genealogy stretching back through Iberia, Scythia, and Egypt.
 
-The text traces the lineage of Míl Espáine (Milesius) through his ancestor **Fénius Farsaid**, said to have been present at the Tower of Babel, and through **Scota**, daughter of an Egyptian pharaoh. The critical genealogical chain runs: Babel → Scythia → Egypt → Iberia → Ireland. As R.A.S. Macalister's edition and translation (Irish Texts Society, vols. 34, 35, 39, 41, 44; 1938–1956) makes clear, the entire thrust of the *Lebor Gabála* is to establish that **the truest Irish are those whose origins lie furthest east**.
+The text traces the lineage of Míl Espáine (Milesius) through his ancestor **Fénius Farsaid**, a king of Scythia said to have been present at the Tower of Babel (the Tower of Nemrod in the text), and through **Scota**, daughter of an Egyptian pharaoh. Fénius's grandson **Goidel Glas** — from whom the Gaels (*Gaedil*) take their name — was born of Scota in Egypt. The text states that Moses healed the infant Goidel Glas from a snakebite and foretold that his descendants would live in a land with no serpents. The critical genealogical chain runs: Babel → Scythia → Egypt → Iberia → Ireland. As R.A.S. Macalister's edition and translation (Irish Texts Society, vols. 34, 35, 39, 41, 44; 1938–1956) makes clear, the entire thrust of the *Lebor Gabála* is to establish that **the truest Irish are those whose origins lie furthest east**.
 
-The poem attributed to the invasion narrative states of the Sons of Míl:
+The name Míl Espáine itself derives from the Latin *Miles Hispaniae* ("soldier of Hispania"). His uncle **Ith** spies Ireland from the top of **Breogán's Tower** in Iberia and sails to the island; after Ith is killed by the Tuatha Dé Danann, the Sons of Míl invade Ireland to avenge him. The text summarizes their journey:
 
-> *"From the east they came, the sons of Míl, / from Scythia, from Egypt of the hosts, / through the lands of the world to Spain, / and from Spain to Ireland of the west."*
-> — Paraphrase from *Lebor Gabála Érenn*, Poem LXVI (Macalister, vol. V)
+> *"As for the Gaedil, we have given their ventures from Iafeth s. Noe onward, and from the Tower of Nemrod, till we have left them at Breogan's Tower in Spain; and how they came from Egypt, and out of Scythia to the Maeotic Marshes, and along the Tyrrhene Sea to Crete and to Sicily; and we have further related how they took Spain by force."*
+> — *Lebor Gabála Érenn* (Macalister edition)
 
 The Milesians do not merely arrive; they **become** the Irish. The text's entire purpose is to argue that distant eastern origin and deep Irish belonging are not contradictions but rather **the foundational Irish story**. The scholar John Carey notes in *The Irish National Origin-Legend* (1994) that the *Lebor Gabála* deliberately constructed an identity in which Ireland's people were defined by their journey from the east — a "learned synthetic history" that made eastern provenance the prerequisite of Irish legitimacy.
 
@@ -59,12 +59,14 @@ A person raised between Riyadh and Ireland occupies an Oisín-like position: sha
 
 ### The Textual Evidence
 
-*Immram Brain maic Febail* (*The Voyage of Bran son of Febal*), dated to the 7th or 8th century and edited by Kuno Meyer (London, 1895), is the foundational Irish voyage tale. Bran is called by a woman from the Otherworld who sings to him of a land across the sea. He voyages there, visits the Island of Joy and the Land of Women, and when he attempts to return to Ireland, he is warned:
+*Immram Brain maic Febail* (*The Voyage of Bran son of Febal*), dated to the 7th or 8th century and edited by Kuno Meyer (David Nutt, London, 1895; 2 vols.), is the foundational Irish voyage tale. A mysterious woman appears in Bran's royal house and sings fifty quatrains of the Otherworld, opening with:
 
-> *"Do not come on land... It will not be long since your going... Hundreds of years have passed since I set out."*
-> — *Immram Brain*, §63–64 (Meyer edition)
+> *"A branch of the apple-tree from Emain I bring, like those one knows; / Twigs of white silver are on it, Crystal brows with blossoms."*
+> — Meyer translation, §1
 
-When one of Bran's companions leaps ashore, he crumbles to ash — the centuries catch up. Bran himself never lands. He remains on the threshold, and the text ends:
+The branch leaps from Bran's hand into the woman's — "there was not strength in Bran's hand to grasp the branch." He voyages across the sea, where **Manannán mac Lir** appears riding a chariot over the waves — embodying mastery of the liminal boundary itself, the sea that is simultaneously a flowered plain from his perspective. Bran visits the Island of Joy and the Land of Women, and when he attempts to return to Ireland, he is warned not to set foot on land.
+
+His companion **Nechtan son of Collbran** leaps ashore eagerly, and in Meyer's translation: *"...the earth of Ireland, forthwith he was a heap of ashes, as though he had been in the earth for many hundred years."* The centuries catch up in a single moment. Bran himself never lands. He remains on the threshold, and the text ends:
 
 > *"From that time forward, his wanderings are not known."*
 
@@ -88,7 +90,7 @@ The Galway connection strengthens this: St. Brendan's monastery at Clonfert is i
 
 November 21 falls twenty days after Samhain (November 1), within the period that early Irish sources treat as a liminal threshold between the old year and the new. Samhain is consistently described in the literature as the time when boundaries between worlds are thinnest.
 
-In the *Serglige Con Culainn* (*The Wasting Sickness of Cú Chulainn*, preserved in *Lebor na hUidre*, c. 1106), the hero's encounter with the Otherworld begins at Samhain. In *Echtra Nerai* (*The Adventure of Nera*), Nera enters the *síd* (fairy mound) at Samhain and moves between worlds. The *Tochmarc Étaíne* (*The Wooing of Étaín*) places its climactic action at Samhain, when Midir reclaims Étaín from the mortal world.
+In the *Serglige Con Culainn* (*The Wasting Sickness of Cú Chulainn*, preserved in *Lebor na hUidre*, c. 1106), the hero's encounter with the Otherworld begins at Samhain. In *Echtra Nerai* (*The Adventure of Nera*), on Samhain night at Cruachan, King Ailill offers a prize to any warrior brave enough to tie a wicker band around a hanged corpse's ankle; only Nera volunteers, and he enters the Otherworld through the *síd*, eventually bringing back summer flowers as proof of his crossing. The *Tochmarc Étaíne* (*The Wooing of Étaín*) places its climactic action at Samhain, when Midir reclaims Étaín from the mortal world. The *Togail Bruidne Da Derga* (*The Destruction of Da Derga's Hostel*) places King Conaire Mór's death on Samhain. The *Táin Bó Cúailnge* begins the invasion of Ulster at Samhain, and both **Fionn mac Cumhaill** and **Lugh** make their dramatic first appearances at the court of Tara during the Samhain assembly.
 
 The key mythological birth associated with this season is that of the hero **Cú Chulainn** himself. In the *Compert Con Culainn* (*The Conception of Cú Chulainn*), the hero's conception and birth are surrounded by supernatural circumstances and temporal liminality — his mother Deichtine is taken to the Otherworld and returns bearing a child of ambiguous parentage (divine and mortal). While the exact calendrical dating is not specified in the text, the thematic association of supernatural birth with the Samhain season is pervasive in the Ulster Cycle.
 
@@ -106,7 +108,7 @@ A birth on November 21 falls within this extended liminal season. This is a mode
 
 ### The Textual Evidence
 
-**Cloonabinnia** (*Cluain na Binne*, "the meadow of the peak/melody") sits in the border region between County Mayo and County Galway, in the heart of Connacht. This is mythologically dense territory.
+**Cloonabinnia** (*Cluain na Binne*) is a townland in Tullokyne ED, Moycullen Civil Parish, County Galway. The name breaks down as: *Cluain* (meadow, a fertile piece of land among bogs, marshes, or woods, from Old Irish *cluain*) + *na* (of the) + *Binne* (genitive of *binn*, "peak" or "melodious sound," from Old Irish *benn*, from Proto-Celtic *bandā*). The literal meaning — "the meadow of the peak" or "the meadow of melody" — positions it as a place between lowland and summit, between silence and song. It sits in the heart of Connacht. This is mythologically dense territory.
 
 The *Metrical Dindsenchas* (edited by Edward Gwynn, Todd Lecture Series, Royal Irish Academy, 5 vols., 1903–1935) contains extensive place-lore for the Connacht region. The nearby plain of **Mag Tuired** (Moytura), where both battles of the Tuatha Dé Danann are set, is one of the most important mythological sites in all of Irish literature. The *Cath Maige Tuired* (*The Second Battle of Mag Tuired*, preserved in a 16th-century manuscript, edited by Elizabeth Gray, Irish Texts Society vol. 52, 1982) locates the decisive conflict between the Tuatha Dé Danann and the Fomorians in this exact landscape.
 
@@ -130,7 +132,11 @@ A person born in Riyadh on November 21, 2006, during the liminal season after Sa
 
 The medieval Irish scholars who composed the *Lebor Gabála* would have understood this immediately. They built their entire national origin-legend on the premise that the Gaels came from the east. The seanchaí tradition of the west of Ireland — documented by Séamus Ó Duilearga and the Irish Folklore Commission from the 1930s onward — preserves the role of the storyteller as one who carries knowledge across boundaries, who synthesizes the distant and the local into a coherent inheritance.
 
-In the vocabulary of the tradition: this is not exile. This is *dúchas* — the deep belonging that is carried in the blood and in the story, regardless of where the body happens to be born. The Milesians were born in Scythia and Egypt. They became the Irish. The tradition has always known that the eastward origin and the westward belonging are two halves of the same sentence.
+In the vocabulary of the tradition: this is not exile (*deoraíocht*). This is *dúchas* — a word that resists English translation. As Gaelic scholarship articulates it, *dúchas* designates simultaneously a sense of origin (where you come from), of relations (to whom and to where you belong), of heritage (what is natural to you), of tradition (what it tells you about yourself), and of identity (your country and your culture). *Dúchas* is hereditary — carried in the blood and in the story, regardless of where the body happens to be born. There is, as the tradition insists, no native Gaelic word for "landscape" as something merely looked at — landscape is something to which you *belong*.
+
+The Milesians were born in Scythia and Egypt. They wandered for centuries through Crete, Sicily, and Iberia. They became the Irish. The *Lebor Gabála* itself models the persistence of *dúchas* across all those generations and geographies. The tradition has always known that the eastward origin and the westward belonging are two halves of the same sentence.
+
+The seanchaí tradition — the living chain of west-of-Ireland storytelling documented by Séamus Ó Duilearga in his landmark Rhŷs Memorial Lecture, *The Gaelic Story-Teller* (Proceedings of the British Academy, vol. 31, 1945) — preserves this understanding. Ó Duilearga distinguished between the *sgéalaí* (teller of the longer hero-tales) and the *seanchaí* proper, who "makes a specialty of local tales, family-sagas, or genealogies, social-historical tradition." The seanchaí inherited the function of the pre-Christian bard: carrying tales across communities and across generations, serving as a living archive. In the west of Ireland — Connemara, the Aran Islands, the Kerry Gaeltacht — this tradition ran deepest. The person who carries stories from afar, who synthesizes the distant and the local into a coherent inheritance, is not a peripheral figure in Gaelic culture. They are its essential instrument of continuity.
 
 ---
 
@@ -155,7 +161,24 @@ In the vocabulary of the tradition: this is not exile. This is *dúchas* — the
 - MacNeill, Máire. *The Festival of Lughnasa.* Oxford University Press, 1962.
 - Meyer, Kuno, ed. and trans. *The Voyage of Bran Son of Febal to the Land of the Living.* 2 vols. London, 1895–1897.
 - Ó Duilearga, Séamus (James H. Delargy). *The Gaelic Story-Teller.* Proceedings of the British Academy, vol. 31. London, 1945.
+- Dooley, Ann, and Harry Roe, trans. *Tales of the Elders of Ireland (Acallam na Senórach).* Penguin Classics, 1999.
+- Murphy, Gerard. *The Ossianic Lore and Romantic Tales of Medieval Ireland.* Dublin Institute for Advanced Studies, 1955.
+- Ó Súilleabháin, Seán. *A Handbook of Irish Folklore.* Dublin, 1942.
 - Wooding, Jonathan M., ed. *The Otherworld Voyage in Early Irish Literature: An Anthology of Criticism.* Four Courts Press, Dublin, 2000.
+
+---
+
+## Note on Scholarly Honesty
+
+The following limitations are stated explicitly, as rigorous analysis requires:
+
+1. **No *Dindsenchas* entry for Cloonabinnia** exists in the known metrical or prose *Dindsenchas* corpus. The place-name etymology is clear (*Cluain na Binne*), but specific mythological place-lore for this townland would need to be sought in the Schools' Collection (duchas.ie) or local folklore archives rather than the medieval corpus.
+
+2. **No specific text about births on November 21** or in the days following Samhain. Samhain itself (Nov 1) is richly attested as a time of supernatural events, but the extended post-Samhain period is not precisely demarcated in the surviving texts. The connection is thematic rather than calendrical.
+
+3. **No medieval Irish text uses the word *dúchas* specifically about diaspora identity.** The concept is deeply embedded in Gaelic thought, but its application to those born abroad is more a modern scholarly and cultural framing than a medieval textual one. The *Lebor Gabála* models the principle without using this specific term.
+
+4. **The *Lebor Gabála Érenn* passage quoted** is drawn from the Macalister edition; the paraphrase of the Milesian journey is a summary passage from the text, not a single verse quotation. All quotations from *Immram Brain* follow Meyer's published translation.
 
 ---
 
