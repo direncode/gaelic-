@@ -2,7 +2,7 @@
 
 ## Connecting a Modern Life to the Ancient Corpora
 
-**Subject:** An individual born November 21, 2006, in Riyadh, Saudi Arabia — of Irish nationality, with deep ancestral roots in Galway and Cloonabinnia (the County Mayo/Galway border region).
+**Subject:** Arran McIlroy, born November 21, 2006, in Riyadh, Saudi Arabia — of Irish nationality, with deep ancestral roots in Galway and Cloonabinnia (the County Mayo/Galway border region).
 
 **Methodology:** Systematic search of the major Gaelic literary corpora for empirically grounded parallels to the motif of an Irish person born in a distant eastern land, whose identity bridges two worlds. Sources ranked by strength of connection. No invented or forced matches.
 
@@ -27,7 +27,7 @@ The Milesians do not merely arrive; they **become** the Irish. The text's entire
 
 ### Why This Is the Strongest Connection
 
-This is not a metaphorical parallel. The *Lebor Gabála Érenn* is the single most important text in the construction of Irish national identity in the medieval period, and its central argument is that the Irish **are** an eastern-born people who found their *dúchas* (heritage-place) in the west. A person born in Riyadh — further east even than the Milesian origin-points — with ancestral roots in Connacht, does not merely echo this pattern. They instantiate it. The *Lebor Gabála* would recognize this biography immediately.
+This is not a metaphorical parallel. The *Lebor Gabála Érenn* is the single most important text in the construction of Irish national identity in the medieval period, and its central argument is that the Irish **are** an eastern-born people who found their *dúchas* (heritage-place) in the west. Arran McIlroy, born in Riyadh — further east even than the Milesian origin-points — with ancestral roots in Connacht, does not merely echo this pattern. He instantiates it. The *Lebor Gabála* would recognize this biography immediately.
 
 The geographical resonance is also notable: Riyadh sits in the heart of the Arabian Peninsula, on roughly the same latitude band as the ancient Near Eastern and Egyptian lands through which the *Lebor Gabála* traces the Milesian wandering. The text's authors would have understood Arabia as part of that same eastern world from which the Gaels originated.
 
@@ -49,7 +49,7 @@ The *Acallam* makes explicit that the bridge-figure — the one who has lived in
 
 ### The Parallel
 
-A person raised between Riyadh and Ireland occupies an Oisín-like position: shaped by another world, yet bound by *dúchas* to Ireland. The key insight from the text is that in Gaelic tradition, this dual experience is not a dilution of identity but an enrichment. Oisín is the most important storyteller in the Fenian tradition precisely **because** he has been elsewhere. The *seanchaí* who has seen another world carries richer tales.
+Arran, raised between Riyadh and Ireland, occupies an Oisín-like position: shaped by another world, yet bound by *dúchas* to Ireland. The key insight from the text is that in Gaelic tradition, this dual experience is not a dilution of identity but an enrichment. Oisín is the most important storyteller in the Fenian tradition precisely **because** he has been elsewhere. The *seanchaí* who has seen another world carries richer tales.
 
 ---
 
@@ -76,7 +76,7 @@ Jonathan Wooding, in *The Otherworld Voyage in Early Irish Literature* (2000), i
 
 ### The Parallel
 
-The immram motif inverts the *Lebor Gabála* pattern: instead of coming *from* the east *to* Ireland, the voyager departs Ireland and returns transformed. A person whose life encompasses both directions — born in the east, rooted in the west, moving between — collapses both patterns into a single biography. This is a moderate-to-strong parallel because the immram is more concerned with departure and return than with birth-origin, but the underlying motif of sacred liminality applies directly.
+The immram motif inverts the *Lebor Gabála* pattern: instead of coming *from* the east *to* Ireland, the voyager departs Ireland and returns transformed. Arran's life encompasses both directions — born in the east, rooted in the west, moving between — collapsing both patterns into a single biography. This is a moderate-to-strong parallel because the immram is more concerned with departure and return than with birth-origin, but the underlying motif of sacred liminality applies directly.
 
 The Galway connection strengthens this: St. Brendan's monastery at Clonfert is in east County Galway, and the *Navigatio* tradition is deeply embedded in the landscape of the subject's own ancestral region.
 
@@ -98,7 +98,7 @@ Máire MacNeill's *The Festival of Lughnasa* (1962) and Séamas Ó Catháin's wo
 
 ### The Parallel
 
-A birth on November 21 falls within this extended liminal season. This is a moderate connection — the texts do not single out November 21 specifically, and it would be intellectually dishonest to claim a precise calendrical alignment. However, the broader Samhain-season association with births that bridge worlds, with thresholds between realms, and with figures of dual nature is thematically consistent.
+Arran's birth on November 21 falls within this extended liminal season. This is a moderate connection — the texts do not single out November 21 specifically, and it would be intellectually dishonest to claim a precise calendrical alignment. However, the broader Samhain-season association with births that bridge worlds, with thresholds between realms, and with figures of dual nature is thematically consistent.
 
 ---
 
@@ -118,7 +118,89 @@ The name element *Cluain* (meadow, pasture) appears frequently in Irish place-na
 
 ### The Parallel
 
-While no specific *Dindsenchas* poem for Cloonabinnia itself survives in the extant corpus, the ancestral landscape sits within the most mythologically significant region in Connacht. The Mayo-Galway border is where the Tuatha Dé Danann fought for possession of Ireland, where Cruachan opens into the Otherworld, and where the navigators of the immram tradition set out. To have roots in this landscape is to have roots in the geography of liminality itself.
+While no specific *Dindsenchas* poem for Cloonabinnia itself survives in the extant corpus, the ancestral landscape sits within the most mythologically significant region in Connacht. The Mayo-Galway border is where the Tuatha Dé Danann fought for possession of Ireland, where Cruachan opens into the Otherworld, and where the navigators of the immram tradition set out. For Arran to have roots in this landscape is to have roots in the geography of liminality itself.
+
+---
+
+## Connection 6: The Fosterage Tradition (*Altram*) — Raised in Another House
+
+**Similarity: STRONG**
+
+### The Textual Evidence
+
+One of the most distinctive institutions of Gaelic society was **fosterage** (*altram*), the practice of sending children to be raised in another household, often at considerable distance from their birth-family. This was not abandonment; it was the highest expression of social trust and the primary mechanism for creating bonds between kindreds. The child raised elsewhere — the *dalta* (foster-child) — held a position of extraordinary cultural importance.
+
+The legal framework is laid out in the Old Irish law text **Cáin Íarraith** (*The Law of Foster-Fee*), preserved in the law tracts edited by D.A. Binchy in *Corpus Iuris Hibernici* (Dublin Institute for Advanced Studies, 6 vols., 1978). The text specifies different grades of fosterage — *altram serce* (fosterage of affection) and *altram íarraith* (fosterage for a fee) — and establishes that the bond between foster-parent and foster-child was, in many legal respects, **as strong as or stronger than the bond of blood**. The *dalta* owed obligations to both their birth-family and their foster-family, and carried the social knowledge of both households.
+
+In the mythological literature, fosterage is ubiquitous among the greatest figures:
+
+- **Lugh Lámhfhada** (Lugh of the Long Arm), the supreme champion of the Tuatha Dé Danann, was fostered by **Tailtiu** and by **Manannán mac Lir** — raised far from his birth-parents, gaining skills and knowledge in other households that made him the *samildánach* (master of all arts). In the *Cath Maige Tuired* (Gray ed., §53–74), Lugh arrives at Tara as a stranger and must prove his worth through his accomplishments — accomplishments gained precisely because he was raised elsewhere.
+
+- **Cú Chulainn** was given in fosterage to multiple figures: to **Conchobar mac Nessa** (the king), to **Sencha mac Ailella** (the judge), to **Fergus mac Róich** (the warrior), and to **Amergin** (the poet). The *Táin Bó Cúailnge* (Recension I, ed. Cecile O'Rahilly, Dublin Institute for Advanced Studies, 1976) describes this multiple fosterage as the source of his comprehensive excellence — each foster-household contributing a different dimension of his character.
+
+- **Oisín** himself, before his journey to Tír na nÓg, was raised within the Fianna — effectively a fosterage institution, where young warriors were shaped by collective mentorship far from their birth-homes.
+
+The key principle in the legal and literary sources is consistent: **the child raised in another place is not diminished by displacement but completed by it**. The *dalta* returns to their kindred enriched, carrying the skills, knowledge, and social bonds of their foster-household. As Fergus Kelly notes in *A Guide to Early Irish Law* (Dublin Institute for Advanced Studies, 1988), fosterage was "the most important means of extending the ties of kinship" — it created belonging across distance.
+
+### The Parallel
+
+Arran McIlroy, born and partly raised in Riyadh, far from his ancestral Connacht, occupies a position that Gaelic legal and narrative tradition would immediately recognize as *altram* — fosterage in another land. The Arabian world is the foster-household; Ireland and Connacht are the *dúchas*-home to which the *dalta* returns, carrying the knowledge and perspective of both. This is not metaphor stretched thin. The institution of fosterage was designed precisely to produce people of dual belonging, and the tradition consistently celebrated them as its most capable figures.
+
+---
+
+## Connection 7: The Filí and the Acquisition of Knowledge Through Travel
+
+**Similarity: MODERATE TO STRONG**
+
+### The Textual Evidence
+
+The **filí** (plural *filid*) — the highest grade of poet in early Irish society — was required by tradition to undertake extensive training that involved travel, displacement, and the acquisition of knowledge from multiple sources and places. The filí was not merely a versifier; they were a repository of *dindshenchas* (place-lore), genealogy, law, and prophetic vision. Their authority derived from **breadth of knowledge**, which in turn derived from breadth of experience.
+
+The 7th-century text **Uraicecht na Ríar** (*The Primer of the Stipulations*), edited by Liam Breatnach (Dublin Institute for Advanced Studies, 1987), describes the grades of the poetic order from the *fochloc* (beginning student) to the *ollam* (master poet). The training took twelve years minimum and required mastery of progressively larger bodies of knowledge — including hundreds of tales, genealogies, and the metrical and linguistic forms of composition. The *Uraicecht Becc* and related legal texts specify that the higher grades of poet had the right to travel freely across territorial boundaries — a privilege shared only with clerics and kings.
+
+The later bardic tradition (c. 1200–1650) maintained this principle. The bardic schools of Ireland and Scotland — documented by Osborn Bergin in his influential lecture *Irish Bardic Poetry* (delivered 1912, published in the Journal of the Ivernian Society, vol. 5, 1913; reprinted in *Irish Bardic Poetry*, Dublin Institute for Advanced Studies, 1970) — trained poets in isolation and darkness (*houses of darkness*), requiring them to compose in conditions of sensory deprivation before emerging into light. The poet was one who had been elsewhere — in darkness, in other territories, in states of altered consciousness — and returned bearing crafted language.
+
+The figure of **Amergin Glúingel**, the first poet to set foot on Irish soil during the Milesian invasion, is paradigmatic. His poem upon landing — preserved in the *Lebor Gabála* and discussed extensively by John Carey in *A Single Ray of the Sun* (Celtic Studies Publications, 1999) — is a declaration of identity through multiplicity:
+
+> *"I am a wind on the sea,*
+> *I am a wave of the ocean,*
+> *I am the roar of the sea,*
+> *I am a powerful ox,*
+> *I am a hawk on a cliff,*
+> *I am a dewdrop in the sun..."*
+> — *Lebor Gabála Érenn* (Macalister ed.)
+
+Amergin claims identity not by fixing himself in one place or form but by inhabiting many. He is simultaneously natural force, animal, and element. The poet's authority comes from **having been everywhere and carrying it all at once**. This is the poet who has just arrived from the east, standing on Irish soil for the first time, and whose first act is to claim all of Ireland through the breadth of his experience.
+
+### The Parallel
+
+The filí tradition establishes that in Gaelic culture, the person of deepest knowledge is the one who has traveled furthest — not merely in geography but in experience. Arran, whose early life encompasses both the Arabian Peninsula and the west of Ireland, has, in the terms the filid would recognize, an unusually broad foundation of *imbas* (poetic knowledge/inspiration). Amergin's poem is the declaration of someone who has just arrived from the east and claims Ireland through the fullness of what he carries. The parallel is direct and textually grounded.
+
+---
+
+## Connection 8: Manannán mac Lir — Lord of the Threshold
+
+**Similarity: MODERATE**
+
+### The Textual Evidence
+
+**Manannán mac Lir** is the Gaelic deity most consistently associated with liminality, boundaries, and the space between worlds. His domain is the sea — the ultimate threshold in insular Celtic geography, the boundary between the known world and the Otherworld. But Manannán is not merely a sea-god; he is the **master of the in-between itself**.
+
+In *Immram Brain* (Meyer ed., §§25–33), Manannán appears to Bran mid-voyage, riding his chariot across what Bran sees as waves but Manannán perceives as a flowered plain. The famous passage describes how the same space is simultaneously ocean and meadow, depending on the perspective of the observer:
+
+> *"What is a clear sea*
+> *For the prowed skiff in which Bran is,*
+> *That is a happy plain with profusion of flowers*
+> *To me from the chariot of two wheels."*
+> — Meyer translation, §33
+
+This is not illusion or deception. Manannán reveals that the boundary between worlds is a matter of perception — that the same space can be two things at once, and the one who can see both is the one who has mastery. He is also the foster-father of Lugh (connecting back to the *altram* tradition) and, in the later tradition preserved by Cormac's Glossary (*Sanas Cormaic*, c. 900), is associated with trade, travel between islands, and the ability to navigate between Britain, Ireland, and the Isle of Man (which bears his name: *Ellan Vannin* in Manx, *Oileán Mhanannáin*).
+
+In the *Serglige Con Culainn* (*The Wasting Sickness of Cú Chulainn*), Manannán's wife Fand comes from the Otherworld to seek Cú Chulainn's aid, and at the tale's resolution, Manannán shakes his cloak between Cú Chulainn and Fand so that they may never meet again — a gesture of boundary-making by the lord of boundaries. The **cloak of Manannán** (*brat Mhanannáin*) becomes a symbol of the veil between worlds.
+
+### The Parallel
+
+Manannán is the archetype of the figure who exists on the boundary and draws power from it rather than being diminished. His perception of the sea-as-meadow is the perception of one who can hold two realities simultaneously — seeing, as Arran might, the Arabian desert and the Connacht bogland as different expressions of the same ground, the same belonging. The connection is moderate because Manannán is a deity rather than a human figure, but the principle he embodies — that mastery of the threshold is a form of sovereignty — is directly applicable.
 
 ---
 
@@ -128,7 +210,7 @@ The Gaelic literary tradition does not treat eastern origin and Irish identity a
 
 The *Lebor Gabála Érenn* insists that the Irish are, at their foundation, an eastern people who traveled westward and found their home on the Atlantic edge of Europe. The voyage tales — from *Immram Brain* to the *Navigatio Brendani* — insist that the most important knowledge comes from crossing between worlds. The figure of Oisín insists that the person who has lived in another realm is not diminished but made into the essential storyteller, the one whose experience bridges what would otherwise remain separate.
 
-A person born in Riyadh on November 21, 2006, during the liminal season after Samhain, with ancestral roots in the Connacht borderlands where the Tuatha Dé Danann fought and where the immram voyagers set out — this person's biography reads, in the grammar of Gaelic mythology, as a variation on the oldest Irish story there is. Not a departure from tradition, but a continuation of it.
+Arran McIlroy, born in Riyadh on November 21, 2006, during the liminal season after Samhain, with ancestral roots in the Connacht borderlands where the Tuatha Dé Danann fought and where the immram voyagers set out — his biography reads, in the grammar of Gaelic mythology, as a variation on the oldest Irish story there is. Not a departure from tradition, but a continuation of it.
 
 The medieval Irish scholars who composed the *Lebor Gabála* would have understood this immediately. They built their entire national origin-legend on the premise that the Gaels came from the east. The seanchaí tradition of the west of Ireland — documented by Séamus Ó Duilearga and the Irish Folklore Commission from the 1930s onward — preserves the role of the storyteller as one who carries knowledge across boundaries, who synthesizes the distant and the local into a coherent inheritance.
 
@@ -149,6 +231,9 @@ The seanchaí tradition — the living chain of west-of-Ireland storytelling doc
 | 3 | The Immram Voyager | *Immram Brain* (Meyer ed.); *Navigatio Brendani* | **Moderate–Strong** | Sacred liminality; the voyager transformed by crossing between realms |
 | 4 | The Samhain Season | *Serglige Con Culainn*; *Echtra Nerai*; *Tochmarc Étaíne* | **Moderate** | November birth within the season of thinned boundaries |
 | 5 | The Connacht Threshold | *Cath Maige Tuired*; *Metrical Dindsenchas* (Gwynn ed.) | **Moderate** | Ancestral landscape as mythological borderland between worlds |
+| 6 | The Fosterage Tradition | *Cáin Íarraith*; *Cath Maige Tuired*; *Táin Bó Cúailnge* | **Strong** | The child raised elsewhere returns completed, not diminished |
+| 7 | The Filí and Travel | *Uraicecht na Ríar*; *Lebor Gabála* (Amergin's poem) | **Moderate–Strong** | Deepest knowledge belongs to the one who has traveled furthest |
+| 8 | Manannán mac Lir | *Immram Brain*; *Serglige Con Culainn* | **Moderate** | Mastery of the threshold as a form of sovereignty |
 
 ---
 
@@ -164,7 +249,23 @@ The seanchaí tradition — the living chain of west-of-Ireland storytelling doc
 - Dooley, Ann, and Harry Roe, trans. *Tales of the Elders of Ireland (Acallam na Senórach).* Penguin Classics, 1999.
 - Murphy, Gerard. *The Ossianic Lore and Romantic Tales of Medieval Ireland.* Dublin Institute for Advanced Studies, 1955.
 - Ó Súilleabháin, Seán. *A Handbook of Irish Folklore.* Dublin, 1942.
+- Bergin, Osborn. *Irish Bardic Poetry.* Dublin Institute for Advanced Studies, 1970. (Reprinting lectures originally delivered 1912–1913.)
+- Binchy, D.A., ed. *Corpus Iuris Hibernici.* 6 vols. Dublin Institute for Advanced Studies, 1978.
+- Breatnach, Liam, ed. and trans. *Uraicecht na Ríar: The Poetic Grades in Early Irish Law.* Dublin Institute for Advanced Studies, 1987.
+- Carey, John. *A Single Ray of the Sun: Religious Speculation in Early Ireland.* Celtic Studies Publications, 1999.
+- Kelly, Fergus. *A Guide to Early Irish Law.* Dublin Institute for Advanced Studies, 1988.
+- O'Rahilly, Cecile, ed. and trans. *Táin Bó Cúailnge: Recension I.* Dublin Institute for Advanced Studies, 1976.
 - Wooding, Jonathan M., ed. *The Otherworld Voyage in Early Irish Literature: An Anthology of Criticism.* Four Courts Press, Dublin, 2000.
+
+---
+
+## Note on the Name: Arran
+
+The name **Arran** carries its own Gaelic resonance. It echoes the **Aran Islands** (*Oileáin Árann*) off the coast of Galway — among the most culturally significant locations in the Gaeltacht, the last bastions of continuous Irish-language tradition, and the subject of extensive ethnographic study by Séamus Ó Duilearga and the Irish Folklore Commission. The islands sit at the threshold of the Atlantic, at the very edge of Europe — a liminal position that mirrors the broader themes of this analysis. The name also connects to **Arran** (*Arainn*) in the Firth of Clyde, Scotland, which shares the same Gaelic etymological root (*Arainn*, possibly from a pre-Celtic word meaning "place of the arched/peaked ridge") and was a significant site in the shared Gaelic world of *Dál Riata* that connected Ireland and Scotland.
+
+The surname **McIlroy** (Irish: *Mac Giolla Ruaidh*, "son of the red-haired servant/devotee") is an Ulster Irish and Scottish Gaelic name, connecting Arran to the broader Gaelic world that stretched from Connacht through Ulster to the Scottish Highlands and Islands. The *Mac Giolla-* prefix (son of the servant/devotee of) is characteristically Gaelic, appearing in dozens of Irish and Scottish surnames and reflecting the early Christian naming practice of dedicating children to saints or qualities. *Ruadh* (red) is one of the most ancient colour-words in Gaelic, appearing throughout the mythological corpus.
+
+Whether the given name was chosen with these resonances in mind or not, it places its bearer within the linguistic and geographic landscape of Gaelic liminality — island names that signify the threshold between land and ocean, between the known world and what lies beyond.
 
 ---
 
